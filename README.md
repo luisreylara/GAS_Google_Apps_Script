@@ -6,4 +6,6 @@
 * [  Segundo  ](./codes/Segundo.gs) 
 * [  Tercero  ](./codes/Tercero.gs)
 * [  Cuarto  ](./codes/Cuarto.gs)
+* [  Menus1  ](./codes/Menus1.gs)
+* [  Menus3  ](./codes/Menus3.gs)
 
