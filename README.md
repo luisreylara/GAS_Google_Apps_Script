@@ -1,9 +1,9 @@
 ## GAS_Google_Apps_Script
 #All about course Google Apps Script
 
-## 1.- Hola Mungo
-* Edit CV under branch 
-* Javascript in flyncer.com
+## 1.- Hola Mundo
+* [Code HolaMundo Robot](./codes/HolaMundo.gs) 
+
 
 ## 21-11-2022
 * Robotic arms connect with 6 servos. with ESP32
