@@ -2,8 +2,9 @@
 #All about course Google Apps Script
 
 ## 1.- Introduction
-* [Code HolaMundo  ](./codes/HolaMundo.gs) 
-* [Code Segundo  ](./codes/Segundo.gs) 
+* [  HolaMundo  ](./codes/HolaMundo.gs) 
+* [  Segundo  ](./codes/Segundo.gs) 
+* [  Tercero  ](./codes/Tercero.gs)
 
 ## 21-11-2022
 * Robotic arms connect with 6 servos. with ESP32
