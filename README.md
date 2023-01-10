@@ -1,7 +1,7 @@
 ## GAS_Google_Apps_Script
 #All about course Google Apps Script
 
-## 1.- Hola Mundo
+## 1.- Introduction
 * [Code HolaMundo Robot](./codes/HolaMundo.gs) 
 
 
