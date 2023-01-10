@@ -7,7 +7,3 @@
 * [  Tercero  ](./codes/Tercero.gs)
 * [  Cuarto  ](./codes/Cuarto.gs)
 
-## 21-11-2022
-* Robotic arms connect with 6 servos. with ESP32
-* [Testing Robot](https://github.com/luisreylara/BrazoRobotico_6ejes_Peru)
-* [testimage](./images/mensday.png)
