@@ -20,6 +20,8 @@ function onEdit() {
     var rangoOrigen = hojaOrigen.getRange(filaActiva,1,1,5);
     var rangoDestino= hojaDestino.getRange(hojaDestino.getLastRow()+1,1);
     rangoOrigen.copyTo(rangoDestino);
+   // rangoOrigen.moveTo(rangoDestino);
+   // hojaOrigen.deleteRow(filaActiva);
   }
   else {
     Logger.log("funciona else")
