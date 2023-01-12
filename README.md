@@ -16,3 +16,4 @@
 ## Ejemplos
 * [ Mover Renglones  ](./codes/MoverRenglones.gs)
 * [ Ejemplo de Borrado  ](./codes/Borrado.gs)
+* [ LeerDatosLibroExterno  ](./codes/LeerDatosExternos.gs )
