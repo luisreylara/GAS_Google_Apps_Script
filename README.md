@@ -17,3 +17,10 @@
 * [ Mover Renglones  ](./codes/MoverRenglones.gs)
 * [ Ejemplo de Borrado  ](./codes/Borrado.gs)
 * [ LeerDatosLibroExterno  ](./codes/LeerDatosExternos.gs )
+* [ Ventanas PupUp  ](./codes/VentanasPopUp.gs )
+* [ Datos Usuario  ](./codes/DatosUsuario.gs )
+
+
+
+
+
