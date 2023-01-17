@@ -19,8 +19,10 @@
 * [ LeerDatosLibroExterno  ](./codes/LeerDatosExternos.gs )
 * [ Ventanas PupUp  ](./codes/VentanasPopUp.gs )
 * [ Datos Usuario  ](./codes/DatosUsuario.gs )
-* [ Recorrer Vectores  ](./codes/RecorrerVectores.gs )
 
+## Ejemplo para comparar la lectura de datos en linea vs vectores
+* [  Datos  ] (https://docs.google.com/spreadsheets/d/1FsZk1Ps--kFb2PaxcBGzIPyMSsmw7iMYRikdPuxpMMA/edit?usp=sharing)
+* [ Recorrer Vectores  ](./codes/RecorrerVectores.gs )
 
 
 
