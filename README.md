@@ -25,6 +25,10 @@
 * [ Recorrer Vectores  ](./codes/RecorrerVectores.gs )
 
 
+## Modificar un DOC con GAS y convertirlo en PDF
+* [ GAS to Docs & PDF  ](./codes/Gas_Doc_Pdf.gs )
+
+
 ## Introducción a Formularios
 * Crear y gestionar un formulario a partir de una Sheet (crear 2 ejemplos al menos).
 * Crear un formulario directamente desde las aplicaciones de Google y gestionarlo (crear 2 ejemplos al menos).
