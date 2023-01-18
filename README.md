@@ -25,4 +25,8 @@
 * [ Recorrer Vectores  ](./codes/RecorrerVectores.gs )
 
 
+## Introducción a Formularios
+* Crear y gestionar un formulario a partir de una Sheet
+* Crear un formulario directamente desde las aplicaciones de Google y gestionarlo.
+
 
