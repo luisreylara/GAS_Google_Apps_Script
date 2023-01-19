@@ -28,6 +28,7 @@
 
 
 ## Modificar un DOC con GAS y convertirlo en PDF
+* [ Creasr un Doc y modificarlo  ](./codes/CreateUpdate.gs )
 * [ GAS to Docs & PDF  ](./codes/Gas_Doc_Pdf.gs )
 
 
