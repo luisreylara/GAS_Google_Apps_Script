@@ -44,3 +44,21 @@ function datos_PDF(){
 }
 
 
+function pdfsMasivos (){
+  var libro = SpreadsheetApp.getActiveSpreadsheet();
+  var hoja = libro.getSheetByName('Datos');
+  var rango = hoja.getRange(2,1,3,3).getValues();
+  Logger.log(rango);
+  var plantilla= libro.getSheetByName("Plantilla").getRange('A1').getValue();
+
+  rango.forEach(fila => {
+    var cadenaTexto = plantilla
+      .replace("{{nombre}}",fila[0])
+      .replace("{{academia}}",fila[1])
+      .replace("{{estado}}",fila[2]);
+    var blob = Utilities.newBlob(cadenaTexto,MimeType.PDF,fila[0]+fila[1]);
+    miCarpeta.createFile(blob);
+  });
+}
+
+
