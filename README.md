@@ -31,6 +31,8 @@
 * [ Crear PDF ](./codes/CrearPDF.gs )
 * [ Crear un Doc y modificarlo  ](./codes/CreateUpdate.gs )
 * [ GAS to Docs & PDF  ](./codes/Gas_Doc_Pdf.gs )
+* [ PDF MAsivos desde Sheets 1  ](./codes/Pdfs_Masivos1.gs )
+* [ PDF MAsivos desde Sheets 2  ](./codes/Pdfs_Masivos2.gs )
 
 
 ## Introducción a Formularios
