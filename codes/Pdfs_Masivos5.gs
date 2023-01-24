@@ -1,3 +1,18 @@
+// Genera un PDF de una hoja de excel. Seleccionar la fila activa de la hoja de "Datos" y 
+// Toma la plantilla, crea una copia de la plantilla, inserta los datos de la fila de la hoja de datos en la copiaPlantilla yu
+// genera el PDF en la carpetaPDF configurada.
+
+
+// Se genera el objeto estudiante = {}
+// Se crea un menú en la hoja para ejecuar Masivo o individual 
+// Genera PDF Individual
+// Genera PDF Masivo
+
+// Genera la URL del PDF  los situa en una nueva columna de la hoja de "Datos", con el objetivo de que el usuario validé que el PDF fué generado
+// Genera la URL del DOC (plantilla) los situa en una nueva columna de la hoja de "Datos", con el objetivo de que el usuario validé que el DOC fué generado
+// Se genera un objeto Urls para guardar los links del PDF y DOC generados
+
+// Se valida en la función generarPDFMasivo SI en la hoja de datos no existe link de PDF , entonces se general el documento, lo mismo para la plantilla
 
 var colMail = 1;
 var colNombre = 2;
