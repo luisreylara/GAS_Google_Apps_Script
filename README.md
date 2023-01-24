@@ -36,6 +36,10 @@
 * [ PDF MAsivos desde Sheets 3  ](./codes/Pdfs_Masivos3.gs )
 * [ PDF MAsivos desde Sheets 4  ](./codes/Pdfs_Masivos4.gs )
 * [ PDF MAsivos desde Sheets 5  ](./codes/Pdfs_Masivos5.gs )
+* [ PDF MAsivos desde Sheets 6  ](./codes/Pdfs_Masivos6.gs )
+* [ PDF MAsivos desde Sheets 7  ](./codes/Pdfs_Masivos7.gs )
+
+
 
 
 
