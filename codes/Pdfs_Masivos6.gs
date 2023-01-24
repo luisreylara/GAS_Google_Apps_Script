@@ -14,7 +14,7 @@
 
 // Se valida en la función generarPDFMasivo SI en la hoja de datos no existe link de PDF , entonces se general el documento, lo mismo para la plantilla
 
-// Se crea la funcion enviarMail, la cual es invocada por generarPDFIndividual y generarPDFMasivo
+// Se crea la funcion enviarMail, la cual es invocada por generarPDFIndividual y generarPDFMasivo.
 
 
 var colMail = 1;
