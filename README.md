@@ -33,6 +33,10 @@
 * [ GAS to Docs & PDF  ](./codes/Gas_Doc_Pdf.gs )
 * [ PDF MAsivos desde Sheets 1  ](./codes/Pdfs_Masivos1.gs )
 * [ PDF MAsivos desde Sheets 2  ](./codes/Pdfs_Masivos2.gs )
+* [ PDF MAsivos desde Sheets 3  ](./codes/Pdfs_Masivos3.gs )
+* [ PDF MAsivos desde Sheets 4  ](./codes/Pdfs_Masivos4.gs )
+* [ PDF MAsivos desde Sheets 5  ](./codes/Pdfs_Masivos5.gs )
+
 
 
 ## Introducción a Formularios
