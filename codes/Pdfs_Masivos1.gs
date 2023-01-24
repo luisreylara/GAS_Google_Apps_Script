@@ -1,3 +1,7 @@
+//Genera un PDF de una hoja de excel. Seleccionar la fila activa de la hoja de "Datos" y 
+// Toma la plantilla, crea una copia de la plantilla, inserta los datos de la fila de la hoja de datos en la copiaPlantilla yu
+// genera el PDF en la carpetaPDF configurada.
+
 function generarPDF() {
   var colMail = 1;
   var colNombre = 2;
