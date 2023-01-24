@@ -10,7 +10,7 @@
 
 // Genera la URL del PDF  los situa en una nueva columna de la hoja de "Datos", con el objetivo de que el usuario validé que el PDF fué generado
 // Genera la URL del DOC (plantilla) los situa en una nueva columna de la hoja de "Datos", con el objetivo de que el usuario validé que el DOC fué generado
-
+// Se genera un objeto Urls para guardar los links del PDF y DOC generados
 
 
 var colMail = 1;
