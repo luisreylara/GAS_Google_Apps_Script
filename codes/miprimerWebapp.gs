@@ -1,3 +1,7 @@
+function mi0doGet(){
+  return HtmlService.createHtmlOutputFromFile("ingreso");
+}
+
 function mi1doGet(e){
    
   var htmlOutput = HtmlService.createTemplateFromFile('Index');
