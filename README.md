@@ -47,4 +47,5 @@
 * Crear y gestionar un formulario a partir de una Sheet (crear 2 ejemplos al menos).
 * Crear un formulario directamente desde las aplicaciones de Google y gestionarlo (crear 2 ejemplos al menos).
 * [ Forms to PDF by Email  ](./codes/Forsm_PDF_Email.gs )
+* [ Modificar un Form desde GAS ](./codes/modificarFormDesdeSheets.gs )
 
