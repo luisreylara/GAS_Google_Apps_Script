@@ -7,8 +7,8 @@ const ID_PLANTILLA='11GYGdTX5CD0yHH_rsTtMlNWIMlJjJ3VEbQD-iMm2dJQ';
 const ID_CARPETA = '1sqahrSb6Y931NVwj3FT3dDlxPikHrltf';
 
 
-** Se debe de crear un activador (trigger) el cual se dispara cuando se envía una respuesta del Form
-![alt text](./images/activador1.png)
+// Se debe de crear un activador (trigger) el cual se dispara cuando se envía una respuesta del Form
+Ver imagen de la configuracion ![alt text](./images/activador1.png)
 
 function pdfDesdeForms(e) {
  // Logger.log(e.namedValues);
