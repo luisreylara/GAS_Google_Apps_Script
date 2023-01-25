@@ -26,3 +26,15 @@ Index.hmtl
     <span>Logged in: <?= email ?></span>
   </body>
 </html>
+
+
+ingreso.html
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+  </head>
+  <body>
+    <h1>Hola desde la página ingreso.html</h1>
+  </body>
+</html>
