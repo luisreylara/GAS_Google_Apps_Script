@@ -54,3 +54,4 @@
 * [ Mi primer WebApp ](./codes/miprimerWebapp.gs )
 * [ Registro de Peso ](./codes/registroPeso.gs )
 * [ Registro de Peso2 ](./codes/registroPeso2.gs )
+* [ Otro ejemplo WebApp sin html ](./codes/Webapp2.gs )
