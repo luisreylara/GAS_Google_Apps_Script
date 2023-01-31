@@ -57,3 +57,7 @@
 * [ Otro ejemplo WebApp sin html ](./codes/Webapp2.gs )
 * [ GAS to HTML ](./codes/gasToHtml.gs )
 * [ Sheets To GAS to HTML ](./codes/ShhetsToGasToHtml.gs )
+* [ WebApp Filter ](./codes/WebAppFilters.gs )
+
+
+
