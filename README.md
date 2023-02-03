@@ -40,15 +40,12 @@
 * [ PDF MAsivos desde Sheets 7  ](./codes/Pdfs_Masivos7.gs )
 
 
-
-
-
 ## Introducción a Formularios
 * Crear y gestionar un formulario a partir de una Sheet (crear 2 ejemplos al menos).
 * Crear un formulario directamente desde las aplicaciones de Google y gestionarlo (crear 2 ejemplos al menos).
 * [ Forms to PDF by Email  ](./codes/Forsm_PDF_Email.gs )
 * [ Modificar un Form desde GAS ](./codes/modificarFormDesdeSheets.gs )
-* [ Modificar un Form desde GAS (2da Parte) ](./codes/modificarFormDesdeSheets2.gs )
+* [ Modificar un Form desde GAS (2da Parte) ](./codes/parte2.md )
 
 ## Introducción a WebApp
 * Crear y gestionar una WebApp.
