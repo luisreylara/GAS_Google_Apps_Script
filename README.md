@@ -47,6 +47,10 @@
 * [ Modificar un Form desde GAS ](./codes/modificarFormDesdeSheets.gs )
 * [ Modificar un Form desde GAS (2da Parte) ](./codes/parte2.md )
 
+## Query in Gas
+* [ Decargar y pasarlo a Sheets ](https://letterhub.com/wp-content/uploads/2018/03/50-contacts.csv)
+
+
 ## Introducción a WebApp
 * Crear y gestionar una WebApp.
 * [ Mi primer WebApp ](./codes/miprimerWebapp.gs )
