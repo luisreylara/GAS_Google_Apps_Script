@@ -48,6 +48,7 @@
 * Crear un formulario directamente desde las aplicaciones de Google y gestionarlo (crear 2 ejemplos al menos).
 * [ Forms to PDF by Email  ](./codes/Forsm_PDF_Email.gs )
 * [ Modificar un Form desde GAS ](./codes/modificarFormDesdeSheets.gs )
+* [ Modificar un Form desde GAS (2da Parte) ](./codes/modificarFormDesdeSheets2.gs )
 
 ## Introducción a WebApp
 * Crear y gestionar una WebApp.
@@ -59,5 +60,6 @@
 * [ Sheets To GAS to HTML ](./codes/ShhetsToGasToHtml.gs )
 * [ WebApp Filter ](./codes/WebAppFilters.gs )
 * [ WebApp Show Images From Drive ](./codes/ShowImages.gs )
+
 
 
