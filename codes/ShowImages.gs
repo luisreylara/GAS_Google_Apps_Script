@@ -1,3 +1,5 @@
+// https://script.google.com/home/projects/1jyXjHeyA0B9n56bWnmmPmuGgDKCeFbif0xOdx3F6GehzvB5Sy1t7g2nX/edit
+// https://script.google.com/a/macros/upjr.edu.mx/s/AKfycbwaQmcs_Jb2kdIq34CBCjTkW9qQxUIADrT-37gD7Ex38Ua1lbCKYZ6-EHyau-zUw7sXqA/exec
 // https://drive.google.com/drive/folders/1RSZJFNqUwSKeL5UQKSq7DF75ECP6FMWy
 
 //Code.gs
