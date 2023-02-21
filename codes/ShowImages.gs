@@ -1,3 +1,5 @@
+// https://drive.google.com/drive/folders/1RSZJFNqUwSKeL5UQKSq7DF75ECP6FMWy
+
 //Code.gs
 
 //Generar una carpeta con al menos 3 imagenes dentro de esta
