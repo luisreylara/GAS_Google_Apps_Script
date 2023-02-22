@@ -1,4 +1,6 @@
 // https://docs.google.com/spreadsheets/d/14r-iLCNbzPCG-jAkt7M-i9MGs5Q-aJpm6jfiV60wy6A/edit#gid=0
+// https://docs.google.com/spreadsheets/d/14r-iLCNbzPCG-jAkt7M-i9MGs5Q-aJpm6jfiV60wy6A/edit?usp=sharing
+
 
 // Code.gs
 function doGet(e) {
