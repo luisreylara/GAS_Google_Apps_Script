@@ -63,8 +63,9 @@
 * [ WebApp Sorter ](./codes/WebAppSorter.gs )
 * [ WebApp Show Images From Drive ](./codes/ShowImages.gs )
 
-Google Data Studio
-Looker Studio
+## Mysql - Phpmyadmin - 
+
+## Google Data Studio (Looker Studio)
 * https://lookerstudio.google.com/
 * https://docs.google.com/spreadsheets/d/1XuDJha3DgdM2Gi7htd8HknPXE7hkNfKbUWMplSFiHo4/edit?usp=sharing
 
